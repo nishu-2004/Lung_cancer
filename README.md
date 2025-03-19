@@ -35,8 +35,8 @@ Lung_cancer/
 │   ├── mutual_info.jpg      # Mutual information scores plot
 │   ├── loss_curve.jpg       # Training and validation loss curves
 │   └── correlation_heatmap.jpg  # Feature correlation heatmap
-├──── model1.h5            # Trained ANN model
-├──── train.py             # Script for training the model
+├── model1.h5            # Trained ANN model
+├── train.py             # Script for training the model
 ├── README.md                # Project README file
 └── requirements.txt         # List of dependencies
 ```
